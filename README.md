@@ -1,6 +1,6 @@
-#Gothenburg City tour
+# Gothenburg city tourist
 
-A tour of the city on tramwayrails and water
+Visit the city in a historic tram
 
 **Project Information**
 
@@ -9,8 +9,7 @@ The pictures are of landmarks so that the visitor knows that they are getting wh
 So that there dosent have to be big sections of text.
 The site is clean and easy to  use and to find the information you need.
 Making it easy for senior tourist to find the information they need, at the 
-same time its minimalistic and clean for the younger tourist.
-
+same time its minimalistic and clean for the younder tourist.
 
 **USER STORIES**
 
@@ -30,17 +29,10 @@ same time its minimalistic and clean for the younger tourist.
 * I want to find the contact information easily incase of a misshap
 
 
+I have used [Balsamiq](https://balsamiq.com/wireframes/) to do a rough sketch. 
+![wireframes](https://github.com/kovacias/ms1-gothenburgtour/blob/master/assets/images/citytour.pdf)
 
 **Images**
 
 I have used images from [pixabay.com](http://www.pixabay.com)
 they are free images witout copyright
-
-**Wireframes**
-
-For this project I have used [Balsamiq](https://balsamiq.com/wireframes/) to get a rough sketch  
-off my project on a mobilefirst basis. 
-
-As it is a rough sketch i have not decided were the name "Gothenburg city tour" goes.
-When the images and text is in place i will try to find the best spot. 
-Changes made from the original design will be documented under changes wireframes.
