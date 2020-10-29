@@ -23,3 +23,10 @@ same time its minimalistic and clean for the younder tourist.
 * I want to find the terms and conditions of the bookings easily
 * I want to get information about confirmation and changes
 * I want to find the contact information easily incase of a misshap
+
+
+
+**Images**
+
+I have used images from [pixabay.com](http://www.pixabay.com)
+they are free images witout copyright
