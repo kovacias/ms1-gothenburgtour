@@ -7,6 +7,7 @@ The site is clean and easy to  use and to find the information you need.
 Making it easy for senior tourist to find the information they need, at the 
 same time its minimalistic and clean for the younder tourist.
 
+
 **USER STORIES**
 
 **As a owner**
@@ -30,3 +31,12 @@ same time its minimalistic and clean for the younder tourist.
 
 I have used images from [pixabay.com](http://www.pixabay.com)
 they are free images witout copyright
+
+**Wireframes**
+
+For this project I have used [Balsamiq](https://balsamiq.com/wireframes/) to get a rough sketch  
+off my project on a mobilefirst basis. 
+
+As it is a rough sketch i have not decided were the name "Gothenburg city tour" goes.
+When the images and text is in place i will try to find the best spot. 
+Changes made from the original design will be documented under changes wireframes.
