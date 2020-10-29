@@ -30,7 +30,7 @@ same time its minimalistic and clean for the younder tourist.
 
 
 I have used [Balsamiq](https://balsamiq.com/wireframes/) to do a rough sketch. 
-![wireframes](https://github.com/kovacias/ms1-gothenburgtour/blob/master/assets/images/citytour.pdf)
+![wireframes](https://github.com/kovacias/ms1-gothenburgtour/tree/master/assets/images/wireframes)
 
 **Images**
 
