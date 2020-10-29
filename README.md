@@ -16,4 +16,10 @@ same time its minimalistic and clean for the younder tourist.
 * I want people to stay on the site and find the invitation-form easy
 * I want the terms and conditions of the bookings to be there but not to stand out
 
+**As a user**
 
+* I want to know what im getting without tons of text
+* I want to find location, time and price without thinking
+* I want to find the terms and conditions of the bookings easily
+* I want to get information about confirmation and changes
+* I want to find the contact information easily incase of a misshap
