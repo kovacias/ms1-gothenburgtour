@@ -8,3 +8,9 @@
     background-position: center;
 }
 
+.center-text {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    text-align: center;
+}
