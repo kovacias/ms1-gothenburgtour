@@ -14,3 +14,15 @@
     left: 60%;
     text-align: center;
 }
+
+.center-text p {
+    font-size: 130%;
+    color: red;     
+}
+/*--- the red text is test--*/
+
+.btn-warning {
+    background-color: transparent;
+    color: red;
+    border-color: red;
+}
