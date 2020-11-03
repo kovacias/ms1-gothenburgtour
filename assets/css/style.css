@@ -1,8 +1,9 @@
 /*-----------------Navbar---------------------*/
 .navbar {
     position: fixed;
+    width: 100%;
+    background-color: rgba(205, 14, 14, 0.87);
 }
-
 
 
 /*-----------------Images---------------------*/
@@ -24,12 +25,12 @@
 
 .center-text p {
     font-size: 130%;
-    color: red;     /*--- the red text is temporary--*/
+    color: rgba(205, 14, 14, 0.87);     /*--- the red text is temporary--*/
 }
 
 
 .btn-warning {
     background-color: transparent;
-    color: red;
-    border-color: red;
+    color: rgba(205, 14, 14, 0.87);
+    border-color: rgba(205, 14, 14, 0.87);
 }
