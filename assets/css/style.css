@@ -1,3 +1,10 @@
+/*-----------------Navbar---------------------*/
+.navbar {
+    position: fixed;
+}
+
+
+
 /*-----------------Images---------------------*/
 .background-image {
     background-image: url("../images/gote/bro.jpg");
@@ -17,9 +24,9 @@
 
 .center-text p {
     font-size: 130%;
-    color: red;     
+    color: red;     /*--- the red text is temporary--*/
 }
-/*--- the red text is test--*/
+
 
 .btn-warning {
     background-color: transparent;
