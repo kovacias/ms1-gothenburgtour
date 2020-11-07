@@ -18,6 +18,11 @@
 }
 
 /*-----------------Images---------------------*/
+.img-fluid {
+    height: auto;
+    width: auto;
+}
+
 .background-image {
     background-image: url("../images/gote/bro.jpg");
     height: 100vh;
