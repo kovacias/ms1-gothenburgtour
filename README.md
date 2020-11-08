@@ -35,4 +35,15 @@ I have used [Balsamiq](https://balsamiq.com/wireframes/) to do a rough sketch.
 **Images**
 
 I have used images from [pixabay.com](http://www.pixabay.com)
-they are free images witout copyright
+they are free images witout copyright, using them as dummies as for now.
+
+
+
+
+
+
+# Sidenotes
+
+Deleted css-content so i can see the changes with bootstap as good as possible. 
+I will do as much as possible with bootstrap in the begining, setting margings,padding, img osv. 
+Until its time to set my own touch to the project with css. in the end.
