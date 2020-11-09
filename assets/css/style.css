@@ -4,13 +4,24 @@
 }
 /*----------  colors -------*/
 
-
 /*-----------------   NAVBAR -----------------*/
+.navbar {
+    background-color: #1f6f8b;
+}
 
-
+.navbar-brand {
+    font-size: 18px;   
+}
 
 .nav-link {
     font-size: 14px;
     letter-spacing: 2px;
-    font-weight: 500;
+    font-weight: 600;
 }
+
+#navbarNav li a:hover {
+    background-color: #1f6f8b;
+    color: white;
+}
+
+
