@@ -78,3 +78,26 @@ body {
     border-color: #1f6f8b;
     transition: 0.8s;
     color: #fafafa;
+}
+
+/*  ----------- Prices & Dates ---- */
+
+.prices-dates {
+    margin-top: 7rem;
+    margin-bottom: 3rem;
+}
+.infos h3 {
+    text-align: center;
+}
+.left-card {
+    padding-left: 15px;
+    padding-bottom: 3rem;
+}
+
+.sunday {
+    background-color: hsla(103, 79%, 32%, 0.267);
+}
+
+.saturday {
+    background-color: hsla(64, 71%, 48%, 0.342)
+}
