@@ -5,8 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>Gothenburg city tour</title>
-    
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
 
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto&display:100,200,300,400,500,600,700,800,900"
@@ -23,43 +28,43 @@
     <!--Background image will cover the screen and will be responsive.
           The button will take the vistior to the tour of the city section 
           (The button is something that can change as im not sure if the use is needed) -->
-    <header>
-    
-      <nav class="navbar navbar-expand-sm navbar-light">
-        <a class="navbar-brand" href="#">Gothenburg Tour </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse"
-        data-target="#navbarNav">
-         
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#"
-                >Home <span class="sr-only">(current)</span></a
-              >
-            </li>
-            <li class="nav-item"><a class="nav-link" href="#">Tour</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-      
-    </header>
 
-    <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <img src="assets/images/gote/bro.jpg" class="img-fluid img-responsive" alt="bro">
-        <p>Short informative and welcoming text</p>
-        <button type="button" class="btn btn-warning">Warning</button>
+    <nav class="navbar navbar-expand-sm navbar-light">
+      <a class="navbar-brand" href="#">Gothenburg Tour </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+          <li class="nav-item"><a class="nav-link" href="#">Tour</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
       </div>
-    </div>
-    </div>    
+    </nav>
 
+    <header>
+      <div class="container-fluid bg-image">
+        <div class="row">
+          <div class="col-12 heading">
+            <h1>Short informative and welcoming text</h1>
+            <button type="button" class="btn btn-warning">Warning</button>
+          </div>
+        </div>
+      </div>
+    </header>
 
     <section>
       <!--Tour of the city  /  There might be edeting along the way
@@ -119,36 +124,32 @@
       <!--  Prices and Dates  /  Here it will be interactive with different icons,
       and a button that takes the visitor to the last section where he/she should fill in the information.
        For the terms and conditions there will eaither be a hyperlink or a modal-->
-      <div class="container-fluid p-5">       
-      <div class="row">
-        <div class="col-12 col-sm-6 col-md-6">
-          <div class="card text-center">
-            <div class="card-body">
-              <h5 class="card-title">Saturday</h5>
-              <p class="card-text">
-                Every saturday at 12 a clock
-              </p>
-              <a href="#" class="btn btn-info">Book Now</a>
+      <div class="container-fluid p-5">
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-6">
+            <div class="card text-center">
+              <div class="card-body">
+                <h5 class="card-title">Saturday</h5>
+                <p class="card-text">Every saturday at 12 a clock</p>
+                <a href="#" class="btn btn-info">Book Now</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6">
+            <div class="card text-center">
+              <div class="card-body">
+                <h5 class="card-title">Sunday</h5>
+                <p class="card-text">Every Sunday at 11 a clock</p>
+                <a href="#" class="btn btn-info">book now</a>
+              </div>
             </div>
           </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-6">
-          <div class="card text-center">
-            <div class="card-body">
-              <h5 class="card-title">Sunday</h5>
-              <p class="card-text">
-                Every Sunday at 11 a clock
-              </p>
-              <a href="#" class="btn btn-info">book now</a>
-            </div>
-          </div>
-        </div>
-      </div>
       </div>
     </section>
 
     <footer>
-        <div class="container-fluid">
+      <div class="container-fluid">
         <div class="row">
           <div class="col-12 bg-success">
             <p>Footer</p>
@@ -165,8 +166,20 @@
       </div>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

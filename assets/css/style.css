@@ -2,11 +2,14 @@
 * { 
  font-family: 'roboto', sans-serif;
 }
-/*----------  colors -------*/
+/*----------  colors 
+#1f6f8b  - navcolor
 
+-------*/
 /*-----------------   NAVBAR -----------------*/
 .navbar {
     background-color: #1f6f8b;
+    padding: 8px;
 }
 
 .navbar-brand {
@@ -21,7 +24,24 @@
 
 #navbarNav li a:hover {
     background-color: #1f6f8b;
-    color: white;
+    color: #fafafa;
+    transition: 0.8s;
 }
 
+.navbar-toggler {
+    background-color: #1f6f8b;
+    border: none;
+}
 
+.navbar-toggler .navbar-data-toggler:after{
+    background-color: #fafafa;
+}
+
+/* ---------------- Backgroundimage ---------*/
+
+.bg-image {
+    background-image: url("../images/gote/bro.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
