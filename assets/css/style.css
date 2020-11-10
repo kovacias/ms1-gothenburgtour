@@ -5,6 +5,10 @@
 /*----------  colors 
 #1f6f8b  - navcolor
 
+#7a7e8391 - text-shadow
+
+#fafafa - white-text
+
 -------*/
 /*-----------------   NAVBAR -----------------*/
 .navbar {
@@ -57,7 +61,18 @@
     color: #fafafa;
     text-shadow: 2px 2px #7a7e8391;
     letter-spacing: 2px;
+    margin-bottom: 30px;
 }
 
+.btn-warning {
+    background-color: transparent;
+    border-color: transparent;
+    color: #fafafa;
+    text-shadow: 1px 1px #7a7e8391;
+}
 
-
+.btn-warning:hover {
+    background-color: #1f6f8b;
+    border-color: #1f6f8b;
+    transition: 0.8s;
+    color: #fafafa;}
