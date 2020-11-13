@@ -101,3 +101,12 @@ body {
 .saturday {
     background-color: hsla(64, 71%, 48%, 0.342)
 }
+.btn-info {
+    background-color: inherit;
+    border-color: inherit;
+}
+
+.btn-info:hover {
+    background-color: #1f6f8b;
+    border-color: #1f6f8b;
+}
