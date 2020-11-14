@@ -110,3 +110,35 @@ body {
     background-color: #1f6f8b;
     border-color: #1f6f8b;
 }
+
+/* --------------------  Footer ------------------------*/
+.foot {
+    background-color: #100F0F;
+    color: #807F7F;
+    min-height: 100px;
+    margin: 0;
+}
+
+#footer-padding {
+    padding: 15px;
+}
+
+.contact {
+    text-align: center;
+}
+.foot h4 {
+    font-size: 18px;
+}
+
+.icons {
+    text-align: center;
+}
+.icons a {
+    margin-left: 6px;
+}
+.hours {
+    text-align: center;
+}
+.foot hr {
+    color:#807F7F;
+}
